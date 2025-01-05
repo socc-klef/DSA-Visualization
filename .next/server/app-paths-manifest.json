@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/searching/page": "app/searching/page.js",
+  "/array-operations/page": "app/array-operations/page.js",
+  "/linked-list/page": "app/linked-list/page.js",
+  "/sorting/page": "app/sorting/page.js",
+  "/stack-queue/page": "app/stack-queue/page.js"
+}
